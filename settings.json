@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "smpmcvn1.aternos.me",
+    "port": 60717,
+    "version": "1.21.80"
   },
 
   "position": {
